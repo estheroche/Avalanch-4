@@ -1,4 +1,4 @@
-# EgoToken Smart contract
+# EstherToken Smart contract
 
 `EstherToken` is an ERC-20 token named "EST" with the symbol "ego" deployed on the Avalanche Fuji Testnet. This token allows the owner to mint new tokens, create items associated with unique IDs, burn tokens, and redeem items. The contract is built on the Ethereum blockchain using OpenZeppelin's ERC-20 implementation.
 
